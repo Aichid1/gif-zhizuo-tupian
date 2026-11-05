@@ -1,0 +1,7 @@
+interface:
+  display_name: "GIF制作"
+  short_description: "按色调、场景与产品参考图生成可复制商品摄影提示词，并给出上传顺序和搭配元素"
+  default_prompt: "使用 $gifzhizuo 根据色调、场景和产品参考图生成 1:1 商品摄影提示词。"
+
+policy:
+  allow_implicit_invocation: true
